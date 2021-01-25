@@ -1,0 +1,16 @@
+---
+- !ruby/object:Item
+  name: AA
+  model: AC
+  plate: 47 AFR 745
+  city: MARDİN
+- !ruby/object:Item
+  name: Meral
+  model: BMW
+  plate: 35 ACV 4587
+  city: İZMİR
+- !ruby/object:Item
+  name: nar
+  model: AC
+  plate: 14 BNH 4785
+  city: BOLU

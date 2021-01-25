@@ -1,0 +1,1 @@
+gem 'auto_record_system', path: '../auto_record_system'

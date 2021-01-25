@@ -1,0 +1,16 @@
+PATH
+  remote: ../auto_record_system
+  specs:
+    auto_record_system (0.1.0)
+
+GEM
+  specs:
+
+PLATFORMS
+  x64-mingw32
+
+DEPENDENCIES
+  auto_record_system!
+
+BUNDLED WITH
+   2.1.4
